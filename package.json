@@ -1,21 +1,30 @@
 {
-  "name": "passport-ifsta",
-  "description": "IFSTA (OpenID) authentication strategy for Passport",
-  "version": "0.0.1",
-  "keywords": [
-    "passport",
-    "ifsta",
-    "fpp",
-    "auth",
-    "authn",
-    "authentication",
-    "identity"
-  ],
-  "author": "Beardon Services",
-  "private": true,
-  "main": "./lib/passport-ifsta",
-  "dependencies": {
-    "passport-openid": "0.3.x",
-    "pkginfo": "~0.3.0"
-  }
+    "name": "passport-ifsta",
+    "description": "IFSTA (OpenID) authentication strategy for Passport",
+    "version": "0.0.2",
+    "keywords": [
+        "passport",
+        "ifsta",
+        "fpp",
+        "auth",
+        "authn",
+        "authentication",
+        "identity"
+    ],
+    "homepage": "https://github.com/beardon/passport-ifsta",
+    "bugs": {
+        "url": "https://github.com/beardon/passport-ifsta/issues",
+        "email": "aaron.bean@beardon.com"
+    },
+    "author": {
+        "name": "Aaron Bean",
+        "email": "aaron.bean@beardon.com",
+        "url": "https://github.com/aaronbean"
+    },
+    "private": true,
+    "main": "./lib/passport-ifsta",
+    "dependencies": {
+        "passport-openid": "0.3.x",
+        "pkginfo": "~0.3.0"
+    }
 }
