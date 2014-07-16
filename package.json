@@ -1,7 +1,7 @@
 {
   "name": "passport-ifsta",
   "description": "IFSTA (OpenID) authentication strategy for Passport",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "keywords": [
     "passport",
     "ifsta",
