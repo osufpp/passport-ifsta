@@ -23,7 +23,6 @@
     "email": "aaron.bean@beardon.com",
     "url": "https://github.com/aaronbean"
   },
-  "private": true,
   "main": "./lib/passport-ifsta",
   "dependencies": {
     "passport-oauth": "^1.0.0",
