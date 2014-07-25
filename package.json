@@ -1,7 +1,7 @@
 {
   "name": "passport-ifsta",
-  "description": "IFSTA (OpenID) authentication strategy for Passport",
-  "version": "0.1.0",
+  "description": "IFSTA authentication strategy for Passport",
+  "version": "0.1.1",
   "keywords": [
     "passport",
     "ifsta",
@@ -9,7 +9,9 @@
     "auth",
     "authn",
     "authentication",
-    "identity"
+    "identity",
+    "edir",
+    "edirectory"
   ],
   "homepage": "https://github.com/beardon/passport-ifsta",
   "bugs": {
