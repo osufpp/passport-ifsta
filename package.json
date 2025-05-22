@@ -1,7 +1,7 @@
 {
   "name": "passport-ifsta",
   "description": "IFSTA authentication strategy for Passport",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "passport",
     "ifsta",
@@ -26,7 +26,6 @@
   "main": "./lib/passport-ifsta",
   "dependencies": {
     "passport-oauth": "^1.0.0",
-    "passport-openid": "^0.4.0",
     "pkginfo": "^0.4.1"
   }
 }
