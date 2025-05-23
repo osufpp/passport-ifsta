@@ -1,7 +1,7 @@
 {
   "name": "passport-ifsta",
   "description": "IFSTA authentication strategy for Passport",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
     "passport",
     "ifsta",
